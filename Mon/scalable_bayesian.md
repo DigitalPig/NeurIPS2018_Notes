@@ -2,6 +2,8 @@
 
 Slide can be downloaded [here](https://media.neurips.cc/Conferences/NIPS2018/Slides/ScalableBayes_dunsonNIPS2018.pdf)
 
+Recording is [here](https://www.youtube.com/watch?v=0HXpnG_WnlI)
+
 - MCMC is scalable. Some algorithm is scalable. There are also algorithms that can be approximated etc.
 - There are two parts of the talk, the first one is "big-n" problem (number of records are a lot)
 - The second part is high dimensionality (high-p) problem.
